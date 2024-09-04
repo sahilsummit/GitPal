@@ -1,2 +1,2 @@
 # PushPal
-Git push assistant.
+Git push assistant
